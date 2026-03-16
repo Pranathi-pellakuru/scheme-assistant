@@ -169,10 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Varun Bhargav**
-
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Portfolio: [Your Website]
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varun-bhargav-moori-90337a186)
 
 ## 🙏 Acknowledgments
 
@@ -183,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue on GitHub.
+For support open an issue on GitHub.
 
 ---
 

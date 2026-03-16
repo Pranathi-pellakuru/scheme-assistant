@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Varun Bhargav**
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/varun-bhargav-moori-90337a186)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varun-bhargav-moori-90337a186)
 
 ## 🙏 Acknowledgments
 
